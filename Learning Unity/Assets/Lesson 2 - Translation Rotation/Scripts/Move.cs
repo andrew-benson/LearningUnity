@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class Move : MonoBehaviour {
 
-    public float speed = 3f;
-    public float turnSpeed = 40; 
+    public int speed = 3;
+    public int turnSpeed = 40; 
 	
 	// Update is called once per frame
 	void Update () {
