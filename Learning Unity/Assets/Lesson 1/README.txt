@@ -1,0 +1,1 @@
+Hello world application, instead of using Console.WriteLine(), we use Debug.Log() in Unity
